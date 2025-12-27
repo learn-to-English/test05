@@ -24,7 +24,7 @@
         </div>
         <h1 class="display-5 fw-bold text-success">登录成功!</h1>
         <p class="lead mb-4">欢迎进入系统后台管理中心</p>
-        <a href="${pageContext.request.contextPath}/main.jsp" class="btn btn-outline-success btn-lg">进入主页</a>
+        <a href="${pageContext.request.contextPath}/main" class="btn btn-outline-success btn-lg">进入主页</a>
     </div>
 </body>
 </html>
